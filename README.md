@@ -1,2 +1,2 @@
-# Car_Cleaning_Lab_Page
+# EA_STAGE_DETAILING
 Carwash/Detailing/Polishing/Chemische Reinigung
